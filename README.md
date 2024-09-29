@@ -1,0 +1,3 @@
+Although my main focus isn't web dev, I found this interesting and give it a try.
+I'm planning in develop this application an basic CRUD, link it to a DB, use docker and so on...
+When I'll do that? When the time comes :ddd  
